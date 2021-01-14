@@ -1,0 +1,2 @@
+C:\Users\Graeme\Source\Repos\HarjotN\hockey\HockeyStats\Debug\HockeyStats.exe
+C:\Users\Graeme\Source\Repos\HarjotN\hockey\HockeyStats\Debug\HockeyStats.pdb
